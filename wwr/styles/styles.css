@@ -33,7 +33,7 @@ header {
 }
 
 nav ul {
-  list-style: none; /* removes the bullets! */
+  list-style: none; /* removes the bullets */
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
   align-items: center;
