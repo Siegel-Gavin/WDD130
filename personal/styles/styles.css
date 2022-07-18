@@ -11,6 +11,13 @@ body {
     background-color: #232323;
 }
 
+.logo {
+    width: 100px;
+    padding: 5px;
+    text-decoration: none;
+    float: left;
+  }
+
 .clear:after {
     content: ".";
     display: block;
